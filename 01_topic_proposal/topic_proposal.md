@@ -4,7 +4,7 @@
 
 - Class: SE1839
 - Group: 01
-- Leader: Trương Gia Kiệt
+- Leader: Lê Nhật Anh
 - Members: Trương Gia Kiệt, Lê Vũ Tiến Dũng, Trần Ánh Quốc
 
 ## 2. Proposed Title
